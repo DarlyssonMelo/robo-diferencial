@@ -31,7 +31,7 @@ Antes de rodar o projeto, você precisará dos seguintes requisitos instalados:
 Clone este repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/robo-diferencial.git
+git clone https://github.com/DarlyssonMelo/robo-diferencial.git
 cd robo-diferencial
 ```
 
