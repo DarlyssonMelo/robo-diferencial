@@ -1,4 +1,0 @@
-[DEBUG] src/linearization_thread.c:linearization_thread():23: Thread de linearização iniciada.
-[DEBUG] src/ref_generator_thread.c:ref_generator_thread():21: Thread de referência iniciada.
-[DEBUG] src/model_ref_x_thread.c:model_ref_x_thread():19: Thread modelo de referência X iniciada.
-[DEBUG] src/model_ref_x_thread.c:model_ref_x_thread():63: Segmentation fault (core dumped)

@@ -1,0 +1,8 @@
+# Ignorar o diretório logs e seu conteúdo
+logs/
+
+# Ignorar o diretório data e seu conteúdo
+data/
+
+# Ignorar todos os arquivos .log
+*.log
